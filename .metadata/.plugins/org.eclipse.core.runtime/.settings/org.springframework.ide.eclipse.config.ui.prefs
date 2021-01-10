@@ -1,0 +1,6 @@
+//com.springsource.config.ui.prefs.activePageIndex\:/dubbo-consumer/src/main/resources/consumer.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/dubbo-provider/src/main/resources/provider.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/order-service/src/main/resources/META-INF/spring/consumer.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/user-provider/src/main/resources/META-INF/spring/user-provider.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/user-provider1/src/main/resources/META-INF/spring/user-provider.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+eclipse.preferences.version=1

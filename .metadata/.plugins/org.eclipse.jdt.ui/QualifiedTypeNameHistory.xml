@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.springframework.context.annotation.ImportSelector"/>
+<fullyQualifiedTypeName name="java.lang.annotation.ElementType"/>
+<fullyQualifiedTypeName name="java.lang.annotation.RetentionPolicy"/>
+<fullyQualifiedTypeName name="com.bocom.redis.importselector.GpImportSelector"/>
+<fullyQualifiedTypeName name="com.bocom.redis.annotation.EnableAutoImport"/>
+<fullyQualifiedTypeName name="org.springframework.context.annotation.Condition"/>
+<fullyQualifiedTypeName name="com.bocom.redis.condition.GpCondition"/>
+<fullyQualifiedTypeName name="org.springframework.boot.SpringApplication"/>
+<fullyQualifiedTypeName name="java.lang.FunctionalInterface"/>
+<fullyQualifiedTypeName name="java.io.Serializable"/>
+<fullyQualifiedTypeName name="org.redisson.Redisson"/>
+<fullyQualifiedTypeName name="org.springframework.util.StringUtils"/>
+<fullyQualifiedTypeName name="com.bocom.redis.bean.FirstClass"/>
+<fullyQualifiedTypeName name="com.bocom.redis.bean.SecondClass"/>
+<fullyQualifiedTypeName name="com.bocom.properties.RedissonProperties"/>
+<fullyQualifiedTypeName name="org.redisson.api.RMap"/>
+<fullyQualifiedTypeName name="io.netty.util.Constant"/>
+<fullyQualifiedTypeName name="org.apache.tomcat.util.bcel.classfile.Constant"/>
+<fullyQualifiedTypeName name="org.yaml.snakeyaml.scanner.Constant"/>
+<fullyQualifiedTypeName name="java.util.concurrent.TimeUnit"/>
+<fullyQualifiedTypeName name="com.bocom.configuration.RedissonAutoConfiguration"/>
+<fullyQualifiedTypeName name="com.bocom.interfacer.IUserService"/>
+<fullyQualifiedTypeName name="org.apache.dubbo.container.Main"/>
+<fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="org.junit.platform.commons.logging.LoggerFactory"/>
+<fullyQualifiedTypeName name="org.slf4j.Logger"/>
+<fullyQualifiedTypeName name="org.slf4j.LoggerFactory"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
+<fullyQualifiedTypeName name="org.apache.dubbo.config.annotation.Service"/>
+<fullyQualifiedTypeName name="com.alibaba.dubbo.config.annotation.Reference"/>
+</qualifiedTypeNameHistroy>
